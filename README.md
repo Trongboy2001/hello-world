@@ -1,3 +1,3 @@
 # hello-world
-# trọng đẹp zai 
-print('trọng đẹp trai')
+# Trọng đẹp zai 
+# cụ Trọng vô đối
